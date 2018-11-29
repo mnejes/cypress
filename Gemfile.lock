@@ -441,7 +441,7 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (~> 1.0, >= 1.0.1)
-    ruby-prof (0.15.9)
+    ruby-prof (0.17.0)
     ruby-progressbar (1.10.0)
     rubyzip (1.2.2)
     sass (3.5.7)
@@ -593,7 +593,7 @@ DEPENDENCIES
   roar-rails
   rolify
   rubocop (~> 0.57.1)
-  ruby-prof (~> 0.15.9)
+  ruby-prof (~> 0.17.0)
   sass-rails (~> 5.0.4)
   scss_lint
   sdoc (~> 0.4.0)
